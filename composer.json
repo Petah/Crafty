@@ -1,0 +1,19 @@
+{
+    "name": "craftyjs/crafty",
+    "version": "0.5.1",
+    "description": "Crafty game framework. Crafty is a modern component and event based framework for javascript games that targets DOM and canvas. Check out the DEV version if you want to play with the latest and greatest.",
+    "authors": [
+		{
+			"name": "Louis Stowasser",
+			"url": "http://craftyjs.com/"
+		}
+    ],
+    "license": [
+        "MIT",
+		"GPL"
+    ],
+    "keywords": [
+        "framework",
+        "javascript"
+    ]
+}
